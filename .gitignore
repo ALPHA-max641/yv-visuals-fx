@@ -1,0 +1,84 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+.env.local
+.env
+
+# Node modules (if using any build tools in future)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Build directories (if needed)
+dist/
+build/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+*.cache
+
+# Backup files
+*.backup
+*.bkp
+
+# Local development
+.localhost
+local.config.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+.nyc_output
+
+# Output of 'npm pack'
+*.tgz
+
+# Misc
+.cache
+.parcel-cache
+.next
+out
+.nuxt
+dist
+.cache/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
